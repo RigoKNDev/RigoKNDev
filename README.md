@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
+
 ```python
 class RigoKNDev():
     
@@ -22,3 +25,7 @@ if __name__ == '__main__':
         <p>Loading</p>
     </div>
 </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
