@@ -1,18 +1,17 @@
 ```python
-class AbhigyanTrips():
+class RigoKNDev():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Bryan Alexander";
+    self.username = "RigoKNDev";
+    self.location = "Spain, Tenerife";
+    self.email = "rigokndev@gmail.com";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = RigoKNDev()
 ```
  
  
