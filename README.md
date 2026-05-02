@@ -26,7 +26,7 @@ if __name__ == '__main__':
     </div>
 </div>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Muchas gracias! &nbsp;❤️&nbsp; por dedicarte un momento de tu tiempo en ver mi repositorio!</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 <div align="center">  
